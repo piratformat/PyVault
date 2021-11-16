@@ -35,3 +35,5 @@ Currently development is done on Python 3.9 and the client runs on Win10 while t
 If vault detect that the user has not used the UI for 5 minutes it will lock itself.
 
 The file menu has options to save/load backups both as encrypted and unencrypted locally where the user chose.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
